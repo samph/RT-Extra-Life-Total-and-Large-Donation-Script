@@ -1,0 +1,13 @@
+README
+=================
+
+Follow the installation instructions to setup an instance of extra-life-api:
+https://www.npmjs.com/package/extra-life-api
+
+Change variable apiServer in the script to point at your instance of the server.
+
+python script.py
+
+Enjoy the output! You can configure what level of donations to spit out to the console by changing outputDonationAbove.
+
+Currently only tracks Jack Pattillo, RTNY and RWBY team members.
