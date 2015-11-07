@@ -4,6 +4,8 @@ README
 Follow the installation instructions to setup an instance of extra-life-api:
 https://www.npmjs.com/package/extra-life-api
 
+(Forked version of the server with very minor edit to mitigate a parsing crash on incomplete response available at https://github.com/samph/extra-life-api)
+
 Change variable apiServer in the script to point at your instance of the server.
 
 python script.py
