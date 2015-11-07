@@ -11,3 +11,15 @@ python script.py
 Enjoy the output! You can configure what level of donations to spit out to the console by changing outputDonationAbove.
 
 Currently only tracks Jack Pattillo, RTNY and RWBY team members.
+
+Example output:
+
+Latest total is $149126
+David Forsyth donated $202.09  (144746)
+Anonymous donated $130.00  (167386)
+Latest total is $151345
+Latest total is $152246
+Latest total is $152408
+Joseph Magenta donated $1,337.04  (191395)
+Latest total is $152598
+Latest total is $154657
